@@ -31,7 +31,7 @@ Step 2: Initialize Terraform
          Download the Docker provider
          Set up your environment
 
-         <img width="1723" height="968" alt="Screenshot 2025-10-26 211052" src="https://github.com/user-attachments/assets/2f4e9434-5728-41b1-a7ae-54bf30529369" />
+ <img width="1723" height="968" alt="Screenshot 2025-10-26 211052" src="https://github.com/user-attachments/assets/2f4e9434-5728-41b1-a7ae-54bf30529369" />
 
 
 Step 3: Apply Configuration
@@ -41,7 +41,7 @@ Step 3: Apply Configuration
         Create a container named terraform-nginx
         Map port 8080 (host) → 80 (container)
 
-        <img width="1732" height="990" alt="Screenshot 2025-10-26 211823" src="https://github.com/user-attachments/assets/e9af10b6-1552-4755-a4d9-725109023819" />
+ <img width="1732" height="990" alt="Screenshot 2025-10-26 211823" src="https://github.com/user-attachments/assets/e9af10b6-1552-4755-a4d9-725109023819" />
 
 
 
@@ -52,7 +52,7 @@ Step 3: Apply Configuration
          You should see the default NGINX welcome page
 
 
-         <img width="1917" height="606" alt="Screenshot 2025-10-26 212304" src="https://github.com/user-attachments/assets/b6c58d54-b4e3-40e4-ac95-3c8c4afb3753" />
+<img width="1917" height="606" alt="Screenshot 2025-10-26 212304" src="https://github.com/user-attachments/assets/b6c58d54-b4e3-40e4-ac95-3c8c4afb3753" />
 
 
  Step 5: Destroy
@@ -62,4 +62,4 @@ Step 3: Apply Configuration
           Type yes to confirm.    
 
 
-          <img width="1237" height="139" alt="Screenshot 2025-10-26 214018" src="https://github.com/user-attachments/assets/fbe4743d-e8f4-402e-b977-31f627e3945e" />
+ <img width="1237" height="139" alt="Screenshot 2025-10-26 214018" src="https://github.com/user-attachments/assets/fbe4743d-e8f4-402e-b977-31f627e3945e" />
