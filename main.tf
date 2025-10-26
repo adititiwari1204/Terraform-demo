@@ -20,7 +20,7 @@ resource "docker_image" "nginx" {
 # Create an NGINX Docker container
 resource "docker_container" "nginx_container" {
   name  = "my-nginx-container"
-  image = docker_image.nginx.latest # Reference the pulled image
+  image = docker_image.nginx.image_id # Reference the pulled image
 
   ports {
     internal = 80
