@@ -4,7 +4,7 @@ terraform {
   required_providers {
     docker = {
       source = "hashicorp/docker"
-      version = "~> 2.13.0"
+      version = "~> v1.13.4"
     }
   }
 }
