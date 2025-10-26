@@ -3,7 +3,7 @@
 terraform {
   required_providers {
     docker = {
-      source = "kreuzwerker/docker"
+      source = "adititiwari1204/docker"
       version = "~> 2.13.0"
     }
   }
